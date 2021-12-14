@@ -1,0 +1,9 @@
+Ini adalah template Admin web Ecommerce.
+
+Metode pembuatan tanpa bootstrap, 
+Plugin aksesoris icon dan font sebagai pemanis .
+
+
+Happy cooding
+
+by herie89
